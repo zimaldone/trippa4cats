@@ -1,2 +1,1 @@
-# trippa4cats
-old version
+# There's no trippa4cats
